@@ -18,7 +18,7 @@
 		<java.version>1.8</java.version>
         <guava.version>29.0-jre</guava.version>
         <lombok.version>1.18.12</lombok.version>
-        <httpclient.version>4.5.12</httpclient.version>
+        <httpclient.version>4.5.13</httpclient.version>
         <jackson-dataformat-csv.version>2.11.0</jackson-dataformat-csv.version>
 	</properties>
 
